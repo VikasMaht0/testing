@@ -1,6 +1,4 @@
-pehli line hai ye git
-
-second line 
+pehli line hai ye 
 
 thirde line hai ye 
 
